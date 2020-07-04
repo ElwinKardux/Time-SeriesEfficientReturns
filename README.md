@@ -1,6 +1,5 @@
 # Time-Series Efficient Returns
 Exploiting Inter- and Intadependencies in Industry Portfolios
-If you want to run my code, you have to download the penalized toolbox package first. The details on this package can be found in https://www.jstatsoft.org/article/view/v072i06. 
 
 A short description for each file:
 
@@ -52,3 +51,4 @@ This file computes the results for the equally weighted portfolios in the origin
 * **logcumplot.m:**
 Creates the figures for the equally weighted portfolios in the original and the efficient industry returns.
   
+If you want to run my code, you have to download the penalized toolbox package first. The download link and the details on this package can be found in https://www.jstatsoft.org/article/view/v072i06. 
