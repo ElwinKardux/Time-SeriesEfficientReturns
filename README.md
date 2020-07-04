@@ -4,7 +4,7 @@ Exploiting Inter- and Intadependencies in Industry Portfolios
 A short description for each file:
 
 * **PredictabilityAnalysis.m:**
-Creates the predictability results for the Industry returns in Tables \ref{tab: pred inter} - \ref{tab: pred PC}, and for the Fama-French results reported in Table \ref{tab: FF5 Predictability}.
+Creates the predictability results for the Industry returns and for the Fama-French five factor returns
 
 * **efficient.m:**
 Function for creating the Intra-Industry efficient returns. It also computes its Sharpe Ratio improvements.
@@ -25,10 +25,10 @@ Creates the Principal component efficient returns and computes its Sharpe Ratio 
 Function for computing the Sharpe ratio improvement z-value and p-value.
 
 * **Intra\_efficient.m:**
-Uses the efficient function of the efficient.m file for creating the Intra-Industry efficient returns for the Fama-french five factors and the twelve industry returns. Also constructs its rotation portfolios and computes the predictions for the Sharpe ratio improvements using the function in efficient\_pred.m. These predictions are reported in this research only for the Fama-french five factors in Table \ref{tab: FF5 Predictability}.
+Uses the efficient function of the efficient.m file for creating the Intra-Industry efficient returns for the Fama-french five factors and the twelve industry returns. Also constructs its rotation portfolios and computes the predictions for the Sharpe ratio improvements using the function in efficient\_pred.m. These predictions are reported in this research only for the Fama-french five factors.
 
 * **efficient\_pred.m:**
-This file contains a function for computing the efficient Fama French five factor Sharpe ratio improvement predictions. These prediction results are reported in Table \ref{tab: FF5 Predictability}.
+This file contains a function for computing the efficient Fama French five factor Sharpe ratio improvement predictions.
 
 * **PriorYear\_efficient.m:**
 Uses the efficient2 function of the efficient2.m file for creating the Prior year Industry efficient returns for the Fama-french five factors and the twelve industry returns.
