@@ -1,5 +1,5 @@
 # Time-Series Efficient Returns
-Exploiting Inter- and Intadependencies in Industry Portfolios
+Exploiting Inter- and Intradependencies in Industry Portfolios
 
 A short description for each file:
 
