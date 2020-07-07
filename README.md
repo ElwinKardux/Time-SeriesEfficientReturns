@@ -14,9 +14,6 @@ Function for creating the Prior year Industry efficient returns. It also compute
 * **Cross\_Industry.m:**
 Creates the Cross-Industry efficient returns and computes its Sharpe Ratio improvements.
 
-* **adapLasso.m**
-Necessary function for computing the adaptive lasso parameters for the cross-industry model.
-
 * **PCA.m:**
 Creates the Principal component efficient returns and computes its Sharpe Ratio improvements.
 
@@ -50,6 +47,8 @@ This file computes the results for the equally weighted portfolios in the origin
 * **logcumplot.m:**
 Creates the figures for the equally weighted portfolios in the original and the efficient industry returns.
   
+* **adapLasso.m**
+Necessary function for computing the adaptive lasso parameters for the cross-industry model.
 
 If you want to run the **Cross\_Industry.m** file, you have to download the penalized toolbox package first. The download link and the details on this package can be found in https://www.jstatsoft.org/article/view/v072i06.
 
