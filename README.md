@@ -1,5 +1,8 @@
 # Time-Series Efficient Returns
 Exploiting Inter- and Intradependencies in Industry Portfolios
+If you want to run the **Cross\_Industry.m** file, you have to download the penalized toolbox package first. The download link and the details on this package can be found in https://www.jstatsoft.org/article/view/v072i06. 
+
+McIlhagga, W. (2016). penalized: A MATLAB Toolbox for Fitting Generalized Linear Models with Penalties. Journal of Statistical Software, 72(6), 1 - 21. doi:http://dx.doi.org/10.18637/jss.v072.i06
 
 A short description for each file:
 
@@ -51,6 +54,4 @@ This file computes the results for the equally weighted portfolios in the origin
 * **logcumplot.m:**
 Creates the figures for the equally weighted portfolios in the original and the efficient industry returns.
   
-If you want to run the **Cross\_Industry.m** file, you have to download the penalized toolbox package first. The download link and the details on this package can be found in https://www.jstatsoft.org/article/view/v072i06. 
 
-McIlhagga, W. (2016). penalized: A MATLAB Toolbox for Fitting Generalized Linear Models with Penalties. Journal of Statistical Software, 72(6), 1 - 21. doi:http://dx.doi.org/10.18637/jss.v072.i06
